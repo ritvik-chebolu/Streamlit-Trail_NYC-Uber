@@ -1,3 +1,5 @@
+Used directly from [Streamlit's](https://share.streamlit.io/streamlit/demo-uber-nyc-pickups/main) gallery.
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-uber-nyc-pickups/main)
 
 # Streamlit Demo: Uber Pickups in New York City
